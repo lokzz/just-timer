@@ -1,4 +1,8 @@
+# archival note
+this was an old fork of the just-timer cli tool which was used interally, which i do not use anymore.
 
+
+## original README.md below:
 **Download**:
 
 Download from the [releases page][rlurl]. (built on M1 mac)
